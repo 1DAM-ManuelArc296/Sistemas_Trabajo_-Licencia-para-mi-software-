@@ -1,7 +1,7 @@
 # Trabajo de sistemas "Licencia para mi software"
 ## Agronature
-### LOGO
-![Logo](https://www.shutterstock.com/image-vector/natural-agro-farm-project-logo-600nw-2539104369.jpg)
+### Logo
+![Logo de agronature](https://www.shutterstock.com/image-vector/natural-agro-farm-project-logo-600nw-2539104369.jpg)
 
 ### ¿Que es agronature?
 Agronature es una sistema de gestion **libre** diseñado para ayudar a la digitalizacion de las cooperativas agrícolas andaluzas. El software incluye los siguientes modulos de entre otros disponibles:
@@ -30,5 +30,5 @@ Agronature es codigo **libre**, no hay que pagar por el, pero en el caso de quer
 
 Tambien, en el caso de no querer tener que encargarte de servidores, ofrezco una **capa de servidores** donde puedo alojar una instancia de agronature para tu negocio en la que no tienes que preocuparte por alojamiento.
 
-## ¿Dudas? ¿Quieres llegar a un acuerdo?
+### ¿Dudas? ¿Quieres llegar a un acuerdo?
 Contacte [conmigo](mailto:support-manuelfreelance@gmail.com) para cualquier pregunta.
